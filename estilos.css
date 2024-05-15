@@ -20,19 +20,19 @@ body {
 
 .siguiente {
   float: right;
-  margin-top: -25px;
+  margin-top: -35px;
 }
 
 .anterior {
   float: left;
-  margin-top: -25px;
+  margin-top: -35px;
 }
 
 .dropdown {
   display: flex;
   justify-content: center;
   position: relative;
-  margin-top: 100px;
+  margin-top: 90px;
 }
 
 .dropdown-content {
