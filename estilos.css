@@ -20,12 +20,12 @@ body {
 
 .siguiente {
   float: right;
-  margin-top: -45px;
+  margin-top: -5px;
 }
 
 .anterior {
   float: left;
-  margin-top: -45px;
+  margin-top: -5px;
 }
 
 .dropdown {
