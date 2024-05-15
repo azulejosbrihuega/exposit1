@@ -31,8 +31,8 @@ body {
 .dropdown {
   display: flex;
   justify-content: center;
-  position: relative;
-  margin-top: 90px;
+  
+  
 }
 
 .dropdown-content {
